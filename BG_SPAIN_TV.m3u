@@ -97,7 +97,7 @@ https://play.tvn.bg:443/TVNweb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BULGARE" tvg-name="BULGARE" tvg-logo="bulgare.png" group-title="Политематични",Национална Телевизия БЪЛГАРЕ
 https://bulgare.cdn.netbadgers.com/bg050/bg051/bg051_hd720.m3u8
-#EXTINF:-1 tvg-id="1ПЪРВАПРОГРАМА" tvg-name="1ПЪРВАПРОГРАМА" tvg-logo="1първапрограма.png" group-title="Филмови",1 ПРОГРАМА
+#EXTINF:-1 tvg-id="1ПЪРВАПРОГРАМА" tvg-name="1ПЪРВАПРОГРАМА" tvg-logo="1programa.png" group-title="Филмови",1 ПРОГРАМА
 http://feed.parvaprograma.com/soctv/hd.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="cartoonnetwork.png" group-title="Детски",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
