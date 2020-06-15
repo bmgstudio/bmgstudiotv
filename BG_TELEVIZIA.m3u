@@ -1,0 +1,437 @@
+#EXTM3U x-tvg-url="http://epg.kodibg.org/dl.php"
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24kitchen" tvg-logo="24kitchen.png" group-title="Документални",24kitchen
+http://136.243.177.164/24KITCHEN/playlist.m3u8
+#EXTINF:-1 tvg-id="78TV" tvg-name="78TV" tvg-logo="78tv.png" group-title="Новинарски",78TV
+http://136.243.177.164/78TV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="amc.png" group-title="Филмови",AMC Balkan English
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="axn.png" group-title="Филмови",AXN
+http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-id="AXNBlack" tvg-name="AXNBlack" tvg-logo="axnblack.png" group-title="Филмови",AXN Black
+http://84.54.128.52:9090/play/1008/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite" tvg-name="AXNWhite" tvg-logo="axnwhite.png" group-title="Филмови",AXN White
+http://84.54.128.52:9090/play/1009/index.m3u8
+#EXTINF:-1 tvg-id="agroTV" tvg-name="agroTV" tvg-logo="agrotv.png" group-title="Новинарски",Агро ТВ
+https://bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="Alfa" tvg-name="Alfa" tvg-logo="alfa.png" group-title="Партийни",Алфа ТВ (Атака)
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="animalplanet.png" group-title="Документални",Animal Planet
+http://136.243.177.164/ANIMALPLANET/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-id="ActionPlus" tvg-name="ActionPlus" tvg-logo="actionplus_hd.png" group-title="Филмови",Action+ HD 
+
+#EXTINF:-1 tvg-id="ArenaSport1" tvg-name="ArenaSport1" tvg-logo="arenasport1.png" group-title="Спортни",Arena Sport 1 SRB 
+
+#EXTINF:-1 tvg-id="ArenaSport2" tvg-name="ArenaSport2" tvg-logo="arenasport2.png" group-title="Спортни",Arena Sport 2 SRB 
+
+#EXTINF:-1 tvg-id="ArenaSport3" tvg-name="ArenaSport3" tvg-logo="arenasport3.png" group-title="Спортни",Arena Sport 3 SRB 
+
+#EXTINF:-1 tvg-id="ArenaSport4" tvg-name="ArenaSport4" tvg-logo="arenasport4.png" group-title="Спортни",Arena Sport 4 SRB 
+
+#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="ArenaSport5" tvg-logo="arenasport5.png" group-title="Спортни",Arena Sport 5 SRB 
+
+#EXTINF:-1 tvg-id="AlphaRadio" tvg-name="AlphaRadio" tvg-logo="alpharadio.png" group-title="radio",Алфа Радио
+
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT1" tvg-logo="bnt1.png" group-title="Новинарски",БНТ 1
+http://136.243.177.164/BNT1/playlist.m3u8
+#EXTINF:-1 tvg-id="BNT2" tvg-name="BNT2" tvg-logo="bnt2.png" group-title="Новинарски",БНТ 2
+http://136.243.177.164/BNT2/playlist.m3u8
+#EXTINF:-1 tvg-id="BNT3" tvg-name="BNT3" tvg-logo="bnt3.png" group-title="Новинарски",БНТ 3
+http://136.243.177.164/BNT3/playlist.m3u8
+#EXTINF:-1 tvg-id="BNT4" tvg-name="BNT4" tvg-logo="bnt4.png" group-title="Новинарски",BNT 4
+http://136.243.177.164/BNT4/playlist.m3u8
+#EXTINF:-1 tvg-id="BulgariaOnAir" tvg-name="BulgariaOnAir" tvg-logo="bulgariaonair.png" group-title="Партийни",Bulgaria On Air
+http://84.54.128.52:9090/play/9005/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="Новинарски",Bloomberg TV Bulgaria
+https://tinyurl.com/BGfreetv-bloomberg
+#EXTINF:-1 tvg-id="BoxTV" tvg-name="BoxTV" tvg-logo="boxtv.png" group-title="Музикални",Box TV
+
+#EXTINF:-1 tvg-id="bTV" tvg-name="bTV" tvg-logo="btv.png" group-title="Новинарски",bTV
+http://136.243.177.164/BTV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-id="bTV" tvg-name="bTV" tvg-logo="btv.png" group-title="Новинарски",bTV
+http://84.54.128.52:9090/play/1002/index.m3u8
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="bTVAction" tvg-logo="btvaction.png" group-title="Филмови",bTV Action
+http://136.243.177.164/BTVACTION/playlist.m3u8
+#EXTINF:-1 tvg-id="bTVComedy" tvg-name="bTVComedy" tvg-logo="btvcomedy.png" group-title="Филмови",bTV Comedy
+http://136.243.177.164/BTVCOMEDY/playlist.m3u8
+#EXTINF:-1 tvg-id="bTVCinema" tvg-name="bTVCinema" tvg-logo="btvcinema.png" group-title="Филмови",bTV Cinema
+http://136.243.177.164/BTVCINEMA/playlist.m3u8
+#EXTINF:-1 tvg-id="bTVLady" tvg-name="bTVLady" tvg-logo="btvlady.png" group-title="Филмови",bTV Lady
+http://136.243.177.164/BTVLADY/playlist.m3u8
+#EXTINF:-1 tvg-id="bTVi" tvg-name="bTVi" tvg-logo="btvi.png" group-title="Политематични",bTV "Интернешънъл"
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="Детски",Boomerang
+
+#EXTINF:-1 tvg-id="BGMusicChannel" tvg-name="BGMusicChannel" tvg-logo="bgmusicchannel.png" group-title="Музикални",BG Music Channel
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="babytv.png" group-title="Детски",Baby TV
+
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="Balkanika" tvg-logo="balkanika.png" group-title="Музикални",Balkanika
+http://136.243.177.164/BALKANIKA/playlist.m3u8
+#EXTINF:-1 tvg-id="BulHistory" tvg-name="BulHistory" tvg-logo="bulhistory.png" group-title="Документални",Българска История HD 
+
+#EXTINF:-1 tvg-id="BrazzersTVEurope" tvg-name="BrazzersTVEurope" tvg-logo="brazzerstveurope.png" group-title="18+",Brazzers TV Europe 
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/13863
+#EXTINF:-1 tvg-id="BrazzersTVEurope" tvg-name="FakeTaxiHD" tvg-logo="brazzerstveurope.png" group-title="18+",Fake Taxi HD
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/666428
+#EXTINF:-1 tvg-id="BrazzersTVEurope" tvg-name="FakeTaxiFemaleHD" tvg-logo="brazzerstveurope.png" group-title="18+",Fake Taxi Female
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/666429
+#EXTINF:-1 tvg-id="BGDNES" tvg-name="BGDNES" tvg-logo="bgdnestv.png" group-title="Документални",BG DNES TV 
+http://80.72.95.40:8088
+#EXTINF:-1 tvg-id="BSTV" tvg-name="BSTV" tvg-logo="bstv.png" group-title="Партийни",БСТВ (БСП) 
+
+#EXTINF:-1 tvg-id="Bulgaria24" tvg-name="Bulgaria24" tvg-logo="bulgaria24.png" group-title="Партийни",България 24 (ВМРО) 
+https://tinyurl.com/BGfreetv-bulgaria24
+#EXTINF:-1 tvg-id="BNRHorizont" tvg-name="BNRHorizont" tvg-logo="bnrhorizont.png" group-title="radio",БНР Програма Хоризонт 
+
+#EXTINF:-1 tvg-id="BNRHristoBotev" tvg-name="BNRHristoBotev" tvg-logo="bnrhristobotev.png" group-title="radio",БНР Програма Христо Ботев 
+
+#EXTINF:-1 tvg-id="BNRShumen" tvg-name="BNRShumen" tvg-logo="bnrshumen.png" group-title="radio",БНР Радио Шумен 
+
+#EXTINF:-1 tvg-id="BGRadio" tvg-name="BGRadio" tvg-logo="bgradio.png" group-title="radio",БГ Радио 
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="ntv.png" group-title="Филмови",N tv 
+https://play.tvn.bg:443/TVNweb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B1BActionTV" tvg-name="B1BActionTV" tvg-logo="b1bactiontv.png" group-title="Спортни",B1B Action TV 
+
+#EXTINF:-1 tvg-id="BGTOPMUSIC" tvg-name="BGTOPMUSIC" tvg-logo="bgtopmusic.png" group-title="Музикални",BG TOP MUSIC 
+
+#EXTINF:-1 tvg-id="BULGARE" tvg-name="BULGARE" tvg-logo="bulgare.png" group-title="Политематични",Национална Телевизия БЪЛГАРЕ
+https://bulgare.cdn.netbadgers.com/bg050/bg051/bg051_hd720.m3u8
+#EXTINF:-1 tvg-id="1ПЪРВАПРОГРАМА" tvg-name="1ПЪРВАПРОГРАМА" tvg-logo="1първапрограма.png" group-title="Филмови",1 ПРОГРАМА
+http://feed.parvaprograma.com/soctv/hd.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="cartoonnetwork.png" group-title="Детски",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="Tom&Jerry" tvg-name="Tom&Jerry tvg-logo="cartoonnetwork.png" group-title="Детски",Tom&Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-id="City" tvg-name="City" tvg-logo="city.png" group-title="Музикални",City ТВ
+http://136.243.177.164/CITYTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="cinemax.png" group-title="Филмови",Cinemax
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax2" tvg-logo="cinemax2.png" group-title="Филмови",Cinemax 2
+http://136.243.177.164/CINEMAX2/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="cnn.png" group-title="Новинарски",CNN
+
+#EXTINF:-1 tvg-id="ChernoMore" tvg-name="ChernoMore" tvg-logo="chernomore.png" group-title="Политематични",ТВ Черно Море
+
+#EXTINF:-1 tvg-id="CBSReality" tvg-name="CBSReality" tvg-logo="cbsreality.png" group-title="Документални",CBS Reality
+
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="ci.png" group-title="Документални",Crime and Investigation
+
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="ComedyCentral" tvg-logo="comedycentralextra.png" group-title="Политематични",Comedy Central Extra South
+
+#EXTINF:-1 tvg-id="ComedyPlus" tvg-name="ComedyPlus" tvg-logo="comedyplus_hd.png" group-title="Филмови",Comedy+ HD 
+https://tinyurl.com/yb49kwe6
+#EXTINF:-1 tvg-id="CinemaPlus" tvg-name="CinemaPlus" tvg-logo="cinemaplus_hd.png" group-title="Филмови",Cinema+ HD 
+https://tinyurl.com/BGfreetv-cinemaplus
+#EXTINF:-1 tvg-id="CMusicTV" tvg-name="CMusicTV" tvg-logo="cmusictv.png" group-title="Музикални",C Music TV
+
+#EXTINF:-1 tvg-id="ClassicFM" tvg-name="ClassicFM" tvg-logo="classicfm.png" group-title="radio",Classic FM
+
+#EXTINF:-1 tvg-id="Diema" tvg-name="Diema" tvg-logo="diema.png" group-title="Филмови",Диема
+http://136.243.177.164/DIEMA/playlist.m3u8
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DiemaFamily" tvg-logo="diemafamily.png" group-title="Филмови",Диема Family
+http://136.243.177.164/DIEMAFAMILY/playlist.m3u8
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DiemaSport" tvg-logo="diemasport.png" group-title="Спортни",Диема Sport
+http://136.243.177.164/DIEMASPORT/playlist.m3u8
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-name="DiemaSport2" tvg-logo="diemasport2.png" group-title="Спортни",Диема Sport 2
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHDShowcase" tvg-name="DiscoveryHDShowcase" tvg-logo="discoveryhdshowcase.png" group-title="Документални",Discovery HD Showcase
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="discovery.png" group-title="Документални",Discovery Channel
+http://84.54.128.52:9090/play/17003/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="DiscoveryScience" tvg-logo="discoveryscience.png" group-title="Документални",Discovery Science
+http://84.54.128.52:9090/play/7002/index.m3u8
+#EXTINF:-1 tvg-id="DuckTV" tvg-name="DuckTV" tvg-logo="ducktv.png" group-title="Детски",Duck TV
+
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="disney.png" group-title="Детски",Disney
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="DisneyJunior" tvg-logo="disneyjunior.png" group-title="Детски",Disney Junior
+
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="DocuBox" tvg-logo="docubox.png" group-title="Документални",DocuBox
+
+#EXTINF:-1 tvg-id="DaVinciLearning" tvg-name="DaVinciLearning" tvg-logo="davincilearning.png" group-title="Документални",Da Vinci Learning
+
+#EXTINF:-1 tvg-id="DSTV" tvg-name="DSTV" tvg-logo="dstv.png" group-title="Музикални",DSTV
+https://tinyurl.com/BGfreetv-DSTV
+#EXTINF:-1 tvg-id="DMSat" tvg-name="DMSat" tvg-logo="dmsat.png" group-title="Музикални",DM Sat
+
+#EXTINF:-1 tvg-id="DeluxeLoungeHD" tvg-name="DeluxeLoungeHD" tvg-logo="deluxeloungehd.png" group-title="Музикални",Deluxe Lounge HD
+
+#EXTINF:-1 tvg-id="DestinationBG" tvg-name="DestinationBG" tvg-logo="destination_bg_hd.png" group-title="Документални",Destination BG
+https://tinyurl.com/yc5ek95v
+#EXTINF:-1 tvg-id="TVDarts" tvg-name="TVDarts" tvg-logo="tvdarts.png" group-title="Политематични",ТВ DАРТС (Благоевград)
+
+#EXTINF:-1 tvg-id="DarikRadioTV" tvg-name="DarikRadioTV" tvg-logo="darikradiotv.png" group-title="radio",Дарик Радио и ТВ
+
+#EXTINF:-1 tvg-id="DUSKTV" tvg-name="DUSKTV" tvg-logo="dusktv.png" group-title="18+",DUSK TV
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/666428
+#EXTINF:-1 tvg-id="DorcelTVEurope" tvg-name="DorcelTVEurope" tvg-logo="dorceltv.png" group-title="18+",Dorcel TV Europe
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5502
+#EXTINF:-1 tvg-id="Eurocom" tvg-name="Eurocom" tvg-logo="eurocom.png" group-title="Новинарски",Евроком
+https://eurocom.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="tveurope" tvg-name="tveurope" tvg-logo="tveurope.png" group-title="Партийни",ТВ Европа
+https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
+#EXTINF:-1 tvg-id="EKids" tvg-name="EKids" tvg-logo="ekids.png" group-title="Детски",Евроком Kids
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="eurosport1.png" group-title="Спортни",Eurosport 1
+http://136.243.177.164/EUROSPORT/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="eurosport2.png" group-title="Спортни",Eurosport 2
+http://136.243.177.164/EUROSPORT2/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV" tvg-name="EnglishClubTV" tvg-logo="englishclubtv.png" group-title="Филмови",English Club TV
+
+#EXTINF:-1 tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="edgesport.png" group-title="Спортни",A1 EDGESport
+
+#EXTINF:-1 tvg-id="EpicDrama" tvg-name="EpicDrama" tvg-logo="epicdrama.png" group-title="Филмови",Viasat Epic Drama
+
+#EXTINF:-1 tvg-id="EuroFolk" tvg-name="EuroFolk" tvg-logo="eurofolktv.png" group-title="Музикални",EuroFolk TV
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8
+#EXTINF:-1 tvg-id="eTV" tvg-name="eTV" tvg-logo="escom.png" group-title="Политематични",Еском ТВ (Хасково)
+
+#EXTINF:-1 tvg-id="EroxHD" tvg-name="EroxHD" tvg-logo="erox.png" group-title="18+",Erox HD
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/23177
+#EXTINF:-1 tvg-id="EroxHD" tvg-name="EroxHD" tvg-logo="erox.png" group-title="18+",Erox2 HD
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5503
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="euronews.png" group-title="Партийни",EuroNews
+
+#EXTINF:-1 tvg-id="RadioENERGY" tvg-name="RadioENERGY" tvg-logo="energy.png" group-title="radio",Радио ENERGY 
+
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel" tvg-logo="eurochannel.png" group-title="Филмови",Eurochannel
+
+#EXTINF:-1 tvg-id="FolklorTV" tvg-name="FolklorTV" tvg-logo="folklortv.png" group-title="Музикални",Фолклор ТВ
+https://tinyurl.com/BGfreetv-folklor
+#EXTINF:-1 tvg-id="FENTV" tvg-name="FENTV" tvg-logo="fentv.png" group-title="Музикални",Фен ТВ
+http://136.243.177.164/FENTV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-id="FenFolk" tvg-name="FenFolk" tvg-logo="fenfolk.png" group-title="Музикални",Фен Фолк
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="fox.png" group-title="Филмови",FOX
+http://136.243.177.164/FOX/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOXLife" tvg-logo="foxlife.png" group-title="Филмови",FOX Life
+http://136.243.177.164/FOXLIFE/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXCrime" tvg-name="FOXCrime" tvg-logo="foxcrime.png" group-title="Филмови",FOX Crime
+http://136.243.177.164/FOXCRIME/playlist.m3u8
+#EXTINF:-1 tvg-id="FineLiving" tvg-name="FineLiving" tvg-logo="fineliving.png" group-title="Документални",Fine Living
+
+#EXTINF:-1 tvg-id="FPlus" tvg-name="FPlus" tvg-logo="fplus.png" group-title="Спортни",F+
+http://136.243.177.164/FPLUS/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="FashionTV" tvg-logo="fashiontv.png" group-title="Новинарски",Fashion TV
+
+#EXTINF:-1 tvg-id="FoodNetworkHD" tvg-name="FoodNetworkHD" tvg-logo="foodnetworkhd.png" group-title="Документални",Food Network HD
+
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="FilmBox" tvg-logo="filmbox.png" group-title="Филмови",FilmBox
+
+#EXTINF:-1 tvg-id="FilmBoXtraHD" tvg-name="FilmBoXtraHD" tvg-logo="filmboxtrahd.png" group-title="Филмови",FilmBox Extra HD
+https://tinyurl.com/BGfreetv-filmboxextra
+#EXTINF:-1 tvg-id="FilmBoxPlusHD" tvg-name="FilmBoxPlusHD" tvg-logo="filmboxplushd.png" group-title="Филмови",FilmBox Plus HD
+https://tinyurl.com/BGfreetv-filmboxplus
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="fightbox.png" group-title="Спортни",FightBox HD
+
+#EXTINF:-1 tvg-id="FMPlus" tvg-name="FMPlus" tvg-logo="fmplus.png" group-title="radio",Радио FM+ 
+
+#EXTINF:-1 tvg-id="RadioFresh" tvg-name="RadioFresh" tvg-logo="radiofresh.png" group-title="radio",Радио Fresh! 
+
+#EXTINF:-1 tvg-id="GINXTV" tvg-name="GINXTV" tvg-logo="ginx.png" group-title="Документални",GINX TV
+
+#EXTINF:-1 tvg-id="GameToon" tvg-name="GameToon" tvg-logo="gametoon.png" group-title="Документални",GameToon
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="Документални",History
+http://136.243.177.164/HISTORYTV/playlist.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="h2.png" group-title="Документални",H2
+https://tinyurl.com/y7h22r9w
+#EXTINF:-1 tvg-id="HobbyTV" tvg-name="HobbyTV" tvg-logo="hobbytv.png" group-title="Документални",Хоби ТВ
+https://tinyurl.com/BGfreetv-hobby
+#EXTINF:-1 tvg-id="HobbyTVHD" tvg-name="HobbyTVHD" tvg-logo="hobbytvhd.png" group-title="Документални",Хоби ТВ HD
+
+#EXTINF:-1 tvg-id="HobbyLovHD" tvg-name="HobbyLovHD" tvg-logo="hobbylovhd.png" group-title="Документални",Хоби Лов HD
+https://tinyurl.com/BGfreetv-hobbylov
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="hbohd.png" group-title="Филмови",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="hbo2.png" group-title="Филмови",HBO2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-logo="hbo3.png" group-title="Филмови",HBO3
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 tvg-id="HustlerTV" tvg-name="HustlerTV" tvg-logo="hustlertv.png" group-title="18+",Hustler TV Europe HD 
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5525
+#EXTINF:-1 tvg-id="HitMix" tvg-name="HitMix" tvg-logo="hitmix.png" group-title="Музикални",Hit Mix 
+
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="id.png" group-title="Документални",Investigation Discovery
+
+#EXTINF:-1 tvg-id="IDXtra" tvg-name="IDXtra" tvg-logo="idxtra.png" group-title="Документални",ID Xtra
+http://84.54.128.52:9090/play/7005/index.m3u8
+#EXTINF:-1 tvg-id="InKitchen" tvg-name="InKitchen" tvg-logo="" group-title="Документални",Хайде в Кухнята
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="jimjam.png" group-title="Детски",JimJam
+
+#EXTINF:-1 tvg-id="JazzFM" tvg-name="JazzFM" tvg-logo="jazzfm.png" group-title="radio",Jazz FM
+
+#EXTINF:-1 tvg-id="Kanal0" tvg-name="Kanal0" tvg-logo="kanal0.png" group-title="Политематични",Канал 0
+http://old.rn-tv.com/k0/stream.m3u8
+#EXTINF:-1 tvg-id="Kanal3" tvg-name="Kanal3" tvg-logo="kanal3.png" group-title="Спортни",Канал 3
+
+#EXTINF:-1 tvg-id="Kanal4" tvg-name="Kanal4" tvg-logo="kanal4.png" group-title="Филмови",Канал 4
+http://84.54.128.52:9090/play/8005/index.m3u8
+#EXTINF:-1 tvg-id="Kiss13" tvg-name="Kiss13" tvg-logo="kiss13.png" group-title="Политематични",Кис 13
+
+#EXTINF:-1 tvg-id="KinoNova" tvg-name="KinoNova" tvg-logo="kinonova.png" group-title="Филмови",KinoNova
+http://136.243.177.164/KINONOVA/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV" tvg-name="MagicTV" tvg-logo="magictv.png" group-title="Музикални",Magic ТВ
+https://tinyurl.com/ydgbwglj
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Музикални",MTV
+
+#EXTINF:-1 tvg-id="MTVRocks" tvg-name="MTVRocks" tvg-logo="mtvrocks.png" group-title="Музикални",MTV Rocks
+
+#EXTINF:-1 tvg-id="MTVHits" tvg-name="MTVHits" tvg-logo="mtvhits.png" group-title="Музикални",MTV Hits
+
+#EXTINF:-1 tvg-id="MTVDance" tvg-name="MTVDance" tvg-logo="mtvdance.png" group-title="Музикални",MTV Dance
+
+#EXTINF:-1 tvg-id="MTVLiveHD" tvg-name="MTVLiveHD" tvg-logo="mtvlivehd.png" group-title="Музикални",MTV Live HD
+
+#EXTINF:-1 tvg-id="MyZen" tvg-name="MyZen" tvg-logo="myzen.png" group-title="Документални",MyZen 
+
+#EXTINF:-1 tvg-id="music" tvg-name="music" tvg-logo="music.png" group-title="Музикални",Музикален канал (универсално EPG) 
+
+#EXTINF:-1 tvg-id="MotoSportHD" tvg-name="MotoSportHD" tvg-logo="motosporthd.png" group-title="Спортни",Мотоспорт HD 
+
+#EXTINF:-1 tvg-id="MovieSTAR" tvg-name="MovieSTAR" tvg-logo="moviestar.png" group-title="Филмови",MovieSTAR 
+https://tinyurl.com/BGfreetv-moviestar
+#EXTINF:-1 tvg-id="MMTV" tvg-name="MMTV" tvg-logo="mmtv.png" group-title="Музикални",MMTV
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSport1" tvg-logo="maxsport1.png" group-title="Спортни",МAX Sport 1
+http://136.243.177.164/MAXSPORT1/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSport2" tvg-logo="maxsport2.png" group-title="Спортни",МAX Sport 2
+http://136.243.177.164/MAXSPORT2/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSport3" tvg-logo="maxsport3.png" group-title="Спортни",МAX Sport 3
+http://136.243.177.164/MAXSPORT3/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSport4" tvg-logo="maxsport4.png" group-title="Спортни",МAX Sport 4
+http://136.243.177.164/MAXSPORT4/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicFM" tvg-name="MagicFM" tvg-logo="magicfm.png" group-title="radio",MagicFM
+
+#EXTINF:-1 tvg-id="MUVitv" tvg-name="MUVitv" tvg-logo="muvitv.png" group-title="Новинарски",MU-Vi tv
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="mezzo.png" group-title="Музикални",Mezzo
+
+#EXTINF:-1 tvg-id="mezzolivehd" tvg-name="mezzolivehd" tvg-logo="mezzolivehd.png" group-title="Музикални",Mezzo Live HD
+
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="novatv.png" group-title="Новинарски",Нова ТВ
+http://136.243.177.164/NOVATV/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="novatv.png" group-title="Новинарски",Нова ТВ
+http://84.54.128.52:9090/play/1003/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="NovaSport" tvg-logo="novasport.png" group-title="Спортни",Nova Sport
+http://136.243.177.164/NOVASPORT/playlist.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png" group-title="Документални",National Geographic Channel
+http://136.243.177.164:80/NATIONALGEOGRAPHIC/playlist.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-logo="natgeowild.png" group-title="Документални",National Geographic Wild
+http://84.54.128.52:9090/play/17002/index.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" tvg-logo="nickjr.png" group-title="Детски",Nickelodeon Junior Bulgaria
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="nickelodeon.png" group-title="Детски",Nickelodeon Bulgaria
+http://136.243.177.164/NICKELODEON/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="nicktoons.png" group-title="Детски",NickToons Commercial Poland/Bulgaria
+
+#EXTINF:-1 tvg-id="news" tvg-name="news" tvg-logo="news.png" group-title="Новинарски",Новинарски канал (универсално EPG) 
+
+#EXTINF:-1 tvg-id="NJoy" tvg-name="NJoy" tvg-logo="njoy.png" group-title="radio",Радио N-Joy 
+
+#EXTINF:-1 tvg-id="RadioNova" tvg-name="RadioNova" tvg-logo="radionova.png" group-title="radio",Радио Nova 
+
+#EXTINF:-1 tvg-id="Outdoor" tvg-name="Outdoor" tvg-logo="outdoor.png" group-title="Документални",Outdoor
+
+#EXTINF:-1 tvg-id="OtBlizoHD" tvg-name="OtBlizoHD" tvg-logo="" group-title="Документални",От близо HD 
+
+#EXTINF:-1 tvg-shift=1 tvg-name="PerviyKanal" tvg-logo="perviykanal.png" group-title="Партийни",Первай канал (ОРТ)
+
+#EXTINF:-1 tvg-id="PlanetaFolk" tvg-name="PlanetaFolk" tvg-logo="planetafolk.png" group-title="Музикални",Планета Фолк
+https://tinyurl.com/BGfreetv-folk
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="planeta.png" group-title="Музикални",Планета
+
+#EXTINF:-1 tvg-id="PlanetaHD" tvg-name="PlanetaHD" tvg-logo="planetahd.png" group-title="Музикални",Планета HD
+
+#EXTINF:-1 tvg-id="PVTV" tvg-name="PVTV" tvg-logo="pvtv.png" group-title="Документални",PVTV (The Fishing and Hunting Channel)
+
+#EXTINF:-1 tvg-id="Trakiq" tvg-name="Trakiq" tvg-logo="potv.png" group-title="Партийни",Пловдивска Обществена Телевизия Тракия (ПОТВ) 
+
+#EXTINF:-1 tvg-id="porn" tvg-name="porn" tvg-logo="18plus.png" group-title="18+",Порнографски канал (универсално EPG) 
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5504
+#EXTINF:-1 tvg-id="PlayboyTVEurope" tvg-name="PlayboyTVEurope" tvg-logo="playboytv.png" group-title="18+",Playboy TV Europe
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5507
+#EXTINF:-1 tvg-id="PrivateTVEurope" tvg-name="PrivateTVEurope" tvg-logo="privatetv.png" group-title="18+",Private TV Europe
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5508
+#EXTINF:-1 tvg-id="RING" tvg-name="RING" tvg-logo="ring.png" group-title="Спортни",RING
+http://136.243.177.164/RINGBG/playlist.m3u8
+#EXTINF:-1 tvg-id="Rimeks" tvg-name="Rimeks" tvg-logo="rimeks.png" group-title="Новинарски",Римекс ТВ
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="Rodina" tvg-name="Rodina" tvg-logo="rodina.png" group-title="Музикални",Родина ТВ
+
+#EXTINF:-1 tvg-id="Redlight" tvg-name="Redlight" tvg-logo="redlight.png" group-title="18+",Redlight HD
+http://mytv.fun:8080/ir0tm6dkes/s8dfa9d2/5522
+#EXTINF:-1 tvg-id="Skat" tvg-name="Skat" tvg-logo="skat.png" group-title="Партийни",Скат ТВ
+https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
+#EXTINF:-1 tvg-id="SportPlusHD" tvg-name="SportPlusHD" tvg-logo="filmplushd.png" group-title="Спортни",Sport+ HD
+http://136.243.177.164/SPORTPLUS/playlist.m3u8
+#EXTINF:-1 tvg-id="Shumen" tvg-name="Shumen" tvg-logo="tvshumen.png" group-title="Политематични",ТВ Шумен
+
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" tvg-logo="sundance.png" group-title="Филмови",Sundance Pan Euro Romania
+
+#EXTINF:-1 tvg-id="TVSTZ" tvg-name="TVSTZ" tvg-logo="tvstz.png" group-title="Политематични",Телевизия Стара Загора
+
+#EXTINF:-1 tvg-id="TheVoice" tvg-name="TheVoice" tvg-logo="thevoice.png" group-title="Музикални",The Voice
+http://136.243.177.164/THEVOICE/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="tv1.png" group-title="Политематични",TV1
+https://tv1.cdn.netbadgers.com/bg060/bg061/bg061_hd1080.m3u8
+#EXTINF:-1 tvg-id="Travel" tvg-name="Travel" tvg-logo="travel.png" group-title="Документални",Травъл ТВ
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="thisisbg" tvg-name="thisisbg" tvg-logo="thisisbg.png" group-title="Документални",This is Bulgaria HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT" tvg-name="TVT" tvg-logo="tvt.png" group-title="Документални",ТВТ Туризъм
+
+#EXTINF:-1 tvg-id="TiankovFolk" tvg-name="TiankovFolk" tvg-logo="tiankovfolk.png" group-title="Музикални",Тянков Фолк ТВ
+
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TraceSportStars" tvg-logo="tracesportstars.png" group-title="Спортни",Trace Sport Stars
+
+#EXTINF:-1 tvg-id="TVPlus" tvg-name="TVPlus" tvg-logo="tvplus.png" group-title="Новинарски",TV+
+
+#EXTINF:-1 tvg-id="TV999" tvg-name="TV999" tvg-logo="tv999.png" group-title="Политематичен",tv999 
+
+#EXTINF:-1 tvg-id="TV1000" tvg-name="TV1000" tvg-logo="tv1000.png" group-title="Филмови",Viasat TV1000
+http://livegopanel.club:8080/peter/Peter/17947
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="TravelChannel" tvg-logo="travelchannel.png" group-title="Документални",Travel Channel
+http://84.54.128.52:9090/play/18002/index.m3u8
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="TravelChannel" tvg-logo="travelchannel.png" group-title="Документални",Travel Channel
+http://84.54.128.52:9090/play/7007/index.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="tlc.png" group-title="Документални",TLC
+http://84.54.128.52:9090/play/7003/index.m3u8
+#EXTINF:-1 tvg-id="Telekabel" tvg-name="Telekabel" tvg-logo="telekabel.png" group-title="Политематични",Телекабел
+
+#EXTINF:-1 tvg-id="TheWorld" tvg-name="TheWorld" tvg-logo="theworld.png" group-title="Документални",The World
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="tvn.png" group-title="Политематични",TVN (TV Networx BG)
+
+#EXTINF:-1 tvg-id="TangraMegaRock" tvg-name="TangraMegaRock" tvg-logo="tangramegarock.png" group-title="radio",Радио Тангра Мега Рок 
+
+#EXTINF:-1 tvg-id="TDC" tvg-name="TDC" tvg-logo="tdc.png" group-title="Филмови",Timeless Drama Channel
+
+#EXTINF:-1 tvg-id="ViasatHD" tvg-name="ViasatHD" tvg-logo="viasathd.png" group-title="Документални",Viasat Nature & History HD
+
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="ViasatExplorer" tvg-logo="viasatexplorer.png" group-title="Документални",Viasat Explorer
+http://136.243.177.164/VIASATEXPLORER/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="ViasatHistory" tvg-logo="viasathistory.png" group-title="Документални",Viasat History
+http://livegopanel.club:8080/peter/Peter/3249
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="ViasatNature" tvg-logo="viasatnature.png" group-title="Документални",Viasat Nature
+http://astra.realcrimea.net:8000/play/a08o
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="vh1.png" group-title="Музикални",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="VH1Classic" tvg-name="VH1Classic" tvg-logo="vh1classic.png" group-title="Музикални",VH1 Classic
+
+#EXTINF:-1 tvg-id="VivacomArena" tvg-name="VivacomArena" tvg-logo="vivacomarena.png" group-title="Филмови",VIVACOM Arena
+
+#EXTINF:-1 tvg-id="Vratza" tvg-name="Vratza" tvg-logo="vratza.png" group-title="Новинарски",Враца ТВ
+https://tinyurl.com/y85h254n
+#EXTINF:-1 tvg-id="VTK" tvg-name="VTK" tvg-logo="vtk.png" group-title="Политематични",Военен ТВ Канал
+http://hls.cdn.bg:2007/fls/vtv/chunklist_w689766971.m3u8
+#EXTINF:-1 tvg-id="VoyoCinema" tvg-name="VoyoCinema" tvg-logo="voyo.png" group-title="Филмови",Voyo Cinema
+
+#EXTINF:-1 tvg-id="TVVidin" tvg-name="TVVidin" tvg-logo="tvv.png" group-title="Политематични",Телевизия Видин
+
+#EXTINF:-1 tvg-id="WorldFashionChannel" tvg-name="WorldFashionChannel" tvg-logo="worldfashionchannel.png" group-title="Новинарски",World Fashion Channel
+
+#EXTINF:-1 tvg-id="wness" tvg-name="wness" tvg-logo="wness.png" group-title="Спортни",wness tv
+https://tinyurl.com/yady2am6
