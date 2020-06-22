@@ -1,0 +1,366 @@
+#EXTM3U x-tvg-url="http://epg.kodibg.org/dl.php"
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24kitchen" tvg-logo="24kitchen.png" group-title="Документални",24kitchen
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27894
+#EXTINF:-1 tvg-id="78TV" tvg-name="78TV" tvg-logo="78tv.png" group-title="Новинарски",78TV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51530
+#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="amc.png" group-title="Филмови",AMC http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51521
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="axn.png" group-title="Филмови",AXN
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51519
+#EXTINF:-1 tvg-id="AXNBlack" tvg-name="AXNBlack" tvg-logo="axnblack.png" group-title="Филмови",AXN Black
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51518
+#EXTINF:-1 tvg-id="AXNWhite" tvg-name="AXNWhite" tvg-logo="axnwhite.png" group-title="Филмови",AXN White
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51517
+#EXTINF:-1 tvg-id="agroTV" tvg-name="agroTV" tvg-logo="agrotv.png" group-title="Новинарски",Агро ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51523
+#EXTINF:-1 tvg-id="Alfa" tvg-name="Alfa" tvg-logo="alfa.png" group-title="Новинарски",Алфа ТВ (Атака)
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51522
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="animalplanet.png" group-title="Документални",Animal Planet
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27893
+#EXTINF:-1 tvg-id="ActionPlus" tvg-name="ActionPlus" tvg-logo="actionplus_hd.png" group-title="Филмови",Action+ HD 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31223
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT1" tvg-logo="bnt1.png" group-title="Новинарски",БНТ 1
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27886
+#EXTINF:-1 tvg-id="BNT2" tvg-name="BNT2" tvg-logo="bnt2.png" group-title="Новинарски",БНТ 2
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27885
+#EXTINF:-1 tvg-id="BNT3" tvg-name="BNT3" tvg-logo="bnt3.png" group-title="Новинарски",БНТ 3
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27884
+#EXTINF:-1 tvg-id="BNT4" tvg-name="BNT4" tvg-logo="bnt4.png" group-title="Новинарски",BNT 4
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27883
+#EXTINF:-1 tvg-id="BulgariaOnAir" tvg-name="BulgariaOnAir" tvg-logo="bulgariaonair.png" group-title="Новинарски",Bulgaria On Air
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27013
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="Новинарски",Bloomberg TV Bulgaria
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27887
+#EXTINF:-1 tvg-id="BoxTV" tvg-name="BoxTV" tvg-logo="boxtv.png" group-title="Музикални",Box TV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27882
+#EXTINF:-1 tvg-id="bTV" tvg-name="bTV" tvg-logo="btv.png" group-title="Новинарски",bTV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/7131
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="bTVAction" tvg-logo="btvaction.png" group-title="Филмови",bTV Action
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27881
+#EXTINF:-1 tvg-id="bTVComedy" tvg-name="bTVComedy" tvg-logo="btvcomedy.png" group-title="Филмови",bTV Comedy
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27009
+#EXTINF:-1 tvg-id="bTVCinema" tvg-name="bTVCinema" tvg-logo="btvcinema.png" group-title="Филмови",bTV Cinema
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27008
+#EXTINF:-1 tvg-id="bTVLady" tvg-name="bTVLady" tvg-logo="btvlady.png" group-title="Филмови",bTV Lady
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27010
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="Детски",Boomerang
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27006
+#EXTINF:-1 tvg-id="BGMusicChannel" tvg-name="BGMusicChannel" tvg-logo="bgmusicchannel.png" group-title="Музикални",BG Music Channel
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27890
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="babytv.png" group-title="Детски",Baby TV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51516
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="Balkanika" tvg-logo="balkanika.png" group-title="Музикални",Balkanika
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27891
+#EXTINF:-1 tvg-id="BulHistory" tvg-name="BulHistory" tvg-logo="bulhistory.png" group-title="Документални",Българска История HD 
+
+#EXTINF:-1 tvg-id="BrazzersTVEurope" tvg-name="BrazzersTVEurope" tvg-logo="brazzerstveurope.png" group-title="18+",Brazzers TV Europe 
+
+#EXTINF:-1 tvg-id="BGDNES" tvg-name="BGDNES" tvg-logo="bgdnestv.png" group-title="Документални",BG DNES TV 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27889
+#EXTINF:-1 tvg-id="BSTV" tvg-name="BSTV" tvg-logo="bstv.png" group-title="Новинарски",БСТВ (БСП) 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51525
+#EXTINF:-1 tvg-id="Bulgaria24" tvg-name="Bulgaria24" tvg-logo="bulgaria24.png" group-title="Новинарски",България 24 (ВМРО) 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27012
+#EXTINF:-1 tvg-id="BNP" tvg-name="BNP" tvg-logo="bnptv.png" group-title="Новинарски",БНП ТВ 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51511
+#EXTINF:-1 tvg-id="B1BActionTV" tvg-name="B1BActionTV" tvg-logo="b1bactiontv.png" group-title="Спортни",B1B Action TV 
+
+#EXTINF:-1 tvg-id="BGTOPMUSIC" tvg-name="BGTOPMUSIC" tvg-logo="bgtopmusic.png" group-title="Музикални",BG TOP MUSIC 
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="BULGARE" tvg-name="BULGARE" tvg-logo="bulgare.png" group-title="Новинарски",Национална Телевизия БЪЛГАРЕ
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="cartoonnetwork.png" group-title="Детски",Cartoon Network
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27014
+#EXTINF:-1 tvg-id="City" tvg-name="City" tvg-logo="city.png" group-title="Музикални",City ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51497
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="cinemax.png" group-title="Филмови",Cinemax
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27878
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax2" tvg-logo="cinemax2.png" group-title="Филмови",Cinemax 2
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27879
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="cnn.png" group-title="Новинарски",CNN
+
+#EXTINF:-1 tvg-id="ChernoMore" tvg-name="ChernoMore" tvg-logo="chernomore.png" group-title="Новинарски",ТВ Черно Море
+
+#EXTINF:-1 tvg-id="CBSReality" tvg-name="CBSReality" tvg-logo="cbsreality.png" group-title="Документални",CBS Reality
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51499
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="ci.png" group-title="Документални",Crime and Investigation
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51500
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="ComedyCentral" tvg-logo="comedycentralextra.png" group-title="Новинарски",Comedy Central Extra South
+
+#EXTINF:-1 tvg-id="ComedyPlus" tvg-name="ComedyPlus" tvg-logo="comedyplus_hd.png" group-title="Филмови",Comedy+ HD 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31230
+#EXTINF:-1 tvg-id="CinemaPlus" tvg-name="CinemaPlus" tvg-logo="cinemaplus_hd.png" group-title="Филмови",Cinema+ HD 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31229
+#EXTINF:-1 tvg-id="Diema" tvg-name="Diema" tvg-logo="diema.png" group-title="Филмови",Диема
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31231
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DiemaFamily" tvg-logo="diemafamily.png" group-title="Филмови",Диема Family
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51492
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DiemaSport" tvg-logo="diemasport.png" group-title="Спортни",Диема Sport
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27876
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-name="DiemaSport2" tvg-logo="diemasport2.png" group-title="Спортни",Диема Sport 2
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27877
+#EXTINF:-1 tvg-id="DiscoveryHDShowcase" tvg-name="DiscoveryHDShowcase" tvg-logo="discoveryhdshowcase.png" group-title="Документални",Discovery HD Showcase
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="discovery.png" group-title="Документални",Discovery Channel
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27875
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="DiscoveryScience" tvg-logo="discoveryscience.png" group-title="Документални",Discovery Science
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27874
+#EXTINF:-1 tvg-id="DuckTV" tvg-name="DuckTV" tvg-logo="ducktv.png" group-title="Детски",Duck TV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27072
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="disney.png" group-title="Детски",Disney
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27022
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="DisneyJunior" tvg-logo="disneyjunior.png" group-title="Детски",Disney Junior
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51486
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="DocuBox" tvg-logo="docubox.png" group-title="Документални",DocuBox
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27872
+#EXTINF:-1 tvg-id="DaVinciLearning" tvg-name="DaVinciLearning" tvg-logo="davincilearning.png" group-title="Документални",Da Vinci Learning
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51495
+#EXTINF:-1 tvg-id="DSTV" tvg-name="DSTV" tvg-logo="dstv.png" group-title="Музикални",DSTV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27071
+#EXTINF:-1 tvg-id="DMSat" tvg-name="DMSat" tvg-logo="dmsat.png" group-title="Музикални",DM Sat
+
+#EXTINF:-1 tvg-id="Tom&Jerry" tvg-name="Tom&Jerry tvg-logo="cartoonnetwork.png" group-title="Детски",Tom&Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="ntv.png" group-title="Филмови",N tv 
+https://play.tvn.bg:443/TVNweb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1ПЪРВАПРОГРАМА" tvg-name="1ПЪРВАПРОГРАМА" tvg-logo="1първапрограма.png" group-title="Филмови",1 ПРОГРАМА
+http://feed.parvaprograma.com/soctv/hd.m3u8
+#EXTINF:-1 tvg-id="DeluxeLoungeHD" tvg-name="DeluxeLoungeHD" tvg-logo="deluxeloungehd.png" group-title="Музикални",Deluxe Lounge HD
+
+#EXTINF:-1 tvg-id="DestinationBG" tvg-name="DestinationBG" tvg-logo="destination_bg_hd.png" group-title="Документални",Destination BG
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51494
+#EXTINF:-1 tvg-id="TVDarts" tvg-name="TVDarts" tvg-logo="tvdarts.png" group-title="Новинарски",ТВ DАРТС (Благоевград)
+
+#EXTINF:-1 tvg-id="DarikRadioTV" tvg-name="DarikRadioTV" tvg-logo="darikradiotv.png" group-title="radio",Дарик Радио и ТВ
+
+#EXTINF:-1 tvg-id="DUSKTV" tvg-name="DUSKTV" tvg-logo="dusktv.png" group-title="18+",DUSK TV
+
+#EXTINF:-1 tvg-id="DorcelTVEurope" tvg-name="DorcelTVEurope" tvg-logo="dorceltv.png" group-title="18+",Dorcel TV Europe
+
+#EXTINF:-1 tvg-id="Eurocom" tvg-name="Eurocom" tvg-logo="eurocom.png" group-title="Новинарски",Евроком
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51481
+#EXTINF:-1 tvg-id="tveurope" tvg-name="tveurope" tvg-logo="tveurope.png" group-title="Новинарски",ТВ Европа
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51450
+#EXTINF:-1 tvg-id="EKids" tvg-name="EKids" tvg-logo="ekids.png" group-title="Детски",Евроком Kids
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="eurosport1.png" group-title="Спортни",Eurosport 1
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27871
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="eurosport2.png" group-title="Спортни",Eurosport 2
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27870
+#EXTINF:-1 tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="edgesport.png" group-title="Спортни",A1 EDGESport
+
+#EXTINF:-1 tvg-id="EpicDrama" tvg-name="EpicDrama" tvg-logo="epicdrama.png" group-title="Филмови",Viasat Epic Drama
+https://tinyurl.com/y9w4p78b
+#EXTINF:-1 tvg-id="EuroFolk" tvg-name="EuroFolk" tvg-logo="eurofolktv.png" group-title="Музикални",EuroFolk TV
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8
+#EXTINF:-1 tvg-id="eTV" tvg-name="eTV" tvg-logo="escom.png" group-title="Новинарски",Еском ТВ (Хасково)
+
+#EXTINF:-1 tvg-id="EroxHD" tvg-name="EroxHD" tvg-logo="erox.png" group-title="18+",Erox HD
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-logo="euronews.png" group-title="Новинарски",EuroNews
+
+#EXTINF:-1 tvg-id="RadioENERGY" tvg-name="RadioENERGY" tvg-logo="energy.png" group-title="radio",Радио ENERGY 
+
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel" tvg-logo="eurochannel.png" group-title="Филмови",Eurochannel
+
+#EXTINF:-1 tvg-id="FolklorTV" tvg-name="FolklorTV" tvg-logo="folklortv.png" group-title="Музикални",Фолклор ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27866
+#EXTINF:-1 tvg-id="FENTV" tvg-name="FENTV" tvg-logo="fentv.png" group-title="Музикални",Фен ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27869
+#EXTINF:-1 tvg-id="FenFolk" tvg-name="FenFolk" tvg-logo="fenfolk.png" group-title="Музикални",Фен Фолк
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27075
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="fox.png" group-title="Филмови",FOX
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27863
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOXLife" tvg-logo="foxlife.png" group-title="Филмови",FOX Life
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27862
+#EXTINF:-1 tvg-id="FOXCrime" tvg-name="FOXCrime" tvg-logo="foxcrime.png" group-title="Филмови",FOX Crime
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27864
+#EXTINF:-1 tvg-id="FineLiving" tvg-name="FineLiving" tvg-logo="fineliving.png" group-title="Документални",Fine Living
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51478
+#EXTINF:-1 tvg-id="FPlus" tvg-name="FPlus" tvg-logo="fplus.png" group-title="Спортни",F+
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51480
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="FashionTV" tvg-logo="fashiontv.png" group-title="Новинарски",Fashion TV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27836
+#EXTINF:-1 tvg-id="FoodNetworkHD" tvg-name="FoodNetworkHD" tvg-logo="foodnetworkhd.png" group-title="Документални",Food Network HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27865
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="FilmBox" tvg-logo="filmbox.png" group-title="Филмови",FilmBox
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27867
+#EXTINF:-1 tvg-id="FilmBoXtraHD" tvg-name="FilmBoXtraHD" tvg-logo="filmboxtrahd.png" group-title="Филмови",FilmBox Extra HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/7111
+#EXTINF:-1 tvg-id="FilmBoxPlusHD" tvg-name="FilmBoxPlusHD" tvg-logo="filmboxplushd.png" group-title="Филмови",FilmBox Plus HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31232
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="fightbox.png" group-title="Спортни",FightBox HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27868
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="Документални",History
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27079
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="h2.png" group-title="Документални",H2
+
+#EXTINF:-1 tvg-id="HobbyTV" tvg-name="HobbyTV" tvg-logo="hobbytv.png" group-title="Документални",Хоби ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27857
+#EXTINF:-1 tvg-id="HobbyTVHD" tvg-name="HobbyTVHD" tvg-logo="hobbytvhd.png" group-title="Документални",Хоби ТВ HD
+
+#EXTINF:-1 tvg-id="HobbyLovHD" tvg-name="HobbyLovHD" tvg-logo="hobbylovhd.png" group-title="Документални",Хоби Лов HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51471
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="hbohd.png" group-title="Филмови",HBO
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27859
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="hbo2.png" group-title="Филмови",HBO2
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27861
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-logo="hbo3.png" group-title="Филмови",HBO3
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27860
+#EXTINF:-1 tvg-id="HustlerTV" tvg-name="HustlerTV" tvg-logo="hustlertv.png" group-title="18+",Hustler TV Europe HD 
+
+#EXTINF:-1 tvg-id="HitMix" tvg-name="HitMix" tvg-logo="hitmix.png" group-title="Музикални",Hit Mix 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27080
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="id.png" group-title="Документални",Investigation Discovery
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27856
+#EXTINF:-1 tvg-id="IDXtra" tvg-name="IDXtra" tvg-logo="idxtra.png" group-title="Документални",ID Xtra
+
+#EXTINF:-1 tvg-id="InKitchen" tvg-name="InKitchen" tvg-logo="" group-title="Документални",Хайде в Кухнята
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="jimjam.png" group-title="Детски",JimJam
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31238
+#EXTINF:-1 tvg-id="Kanal0" tvg-name="Kanal0" tvg-logo="kanal0.png" group-title="Новинарски",Канал 0
+http://old.rn-tv.com/k0/stream.m3u8
+#EXTINF:-1 tvg-id="Kanal3" tvg-name="Kanal3" tvg-logo="kanal3.png" group-title="Спортни",Канал 3
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51469
+#EXTINF:-1 tvg-id="Kanal4" tvg-name="Kanal4" tvg-logo="kanal4.png" group-title="Филмови",Канал 4
+http://84.54.128.52:9090/play/8005/index.m3u8
+#EXTINF:-1 tvg-id="Kiss13" tvg-name="Kiss13" tvg-logo="kiss13.png" group-title="Новинарски",Кис 13
+
+#EXTINF:-1 tvg-id="KinoNova" tvg-name="KinoNova" tvg-logo="kinonova.png" group-title="Филмови",KinoNova
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31239
+#EXTINF:-1 tvg-id="MagicTV" tvg-name="MagicTV" tvg-logo="magictv.png" group-title="Музикални",Magic ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51467
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Музикални",MTV
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/104
+#EXTINF:-1 tvg-id="MTVRocks" tvg-name="MTVRocks" tvg-logo="mtvrocks.png" group-title="Музикални",MTV Rocks
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/105
+#EXTINF:-1 tvg-id="MTVHits" tvg-name="MTVHits" tvg-logo="mtvhits.png" group-title="Музикални",MTV Hits
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/102
+#EXTINF:-1 tvg-id="MTVDance" tvg-name="MTVDance" tvg-logo="mtvdance.png" group-title="Музикални",MTV Dance
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/103
+#EXTINF:-1 tvg-id="MTVLiveHD" tvg-name="MTVLiveHD" tvg-logo="mtvlivehd.png" group-title="Музикални",MTV Live HD
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/6977
+#EXTINF:-1 tvg-id="MyZen" tvg-name="MyZen" tvg-logo="myzen.png" group-title="Документални",MyZen 
+
+#EXTINF:-1 tvg-id="music" tvg-name="music" tvg-logo="music.png" group-title="Музикални",Музикален канал
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="music" tvg-name="music" tvg-logo="music.png" group-title="Музикални",Музикален канал (универсално EPG) 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27890
+#EXTINF:-1 tvg-id="MotoSportHD" tvg-name="MotoSportHD" tvg-logo="motosporthd.png" group-title="Спортни",Мотоспорт HD 
+
+#EXTINF:-1 tvg-id="MovieSTAR" tvg-name="MovieSTAR" tvg-logo="moviestar.png" group-title="Филмови",MovieSTAR 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51466
+#EXTINF:-1 tvg-id="MMTV" tvg-name="MMTV" tvg-logo="mmtv.png" group-title="Музикални",MMTV
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51527
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSport1" tvg-logo="maxsport1.png" group-title="Спортни",МAX Sport 1
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/30760
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSport2" tvg-logo="maxsport2.png" group-title="Спортни",МAX Sport 2
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/30761
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSport3" tvg-logo="maxsport3.png" group-title="Спортни",МAX Sport 3
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/33777
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSport4" tvg-logo="maxsport4.png" group-title="Спортни",МAX Sport 4
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/46990
+#EXTINF:-1 tvg-id="MagicFM" tvg-name="MagicFM" tvg-logo="magicfm.png" group-title="radio",MagicFM
+
+#EXTINF:-1 tvg-id="MUVitv" tvg-name="MUVitv" tvg-logo="muvitv.png" group-title="Новинарски",MU-Vi tv
+
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="mezzo.png" group-title="Музикални",Mezzo
+
+#EXTINF:-1 tvg-id="mezzolivehd" tvg-name="mezzolivehd" tvg-logo="mezzolivehd.png" group-title="Музикални",Mezzo Live HD
+
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="novatv.png" group-title="Новинарски",Нова ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/7094
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="NovaSport" tvg-logo="novasport.png" group-title="Спортни",Nova Sport
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27851
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png" group-title="Документални",National Geographic Channel
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27854
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-logo="natgeowild.png" group-title="Документални",National Geographic Wild
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27853
+#EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" tvg-logo="nickjr.png" group-title="Детски",Nickelodeon Junior Bulgaria
+http://84.54.128.52:9090/play/3005/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="nickelodeon.png" group-title="Детски",Nickelodeon Bulgaria
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51464
+#EXTINF:-1 tvg-id="PlanetaFolk" tvg-name="PlanetaFolk" tvg-logo="planetafolk.png" group-title="Музикални",Планета Фолк
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27087
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="planeta.png" group-title="Музикални",Планета
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27850
+#EXTINF:-1 tvg-id="PlanetaHD" tvg-name="PlanetaHD" tvg-logo="planetahd.png" group-title="Музикални",Планета HD
+
+#EXTINF:-1 tvg-id="PVTV" tvg-name="PVTV" tvg-logo="pvtv.png" group-title="Документални",PVTV (The Fishing and Hunting Channel)
+
+#EXTINF:-1 tvg-id="Trakiq" tvg-name="Trakiq" tvg-logo="potv.png" group-title="Новинарски",Пловдивска Обществена Телевизия Тракия (ПОТВ) 
+
+#EXTINF:-1 tvg-id="porn" tvg-name="porn" tvg-logo="18plus.png" group-title="18+",Порнографски канал (универсално EPG) 
+
+#EXTINF:-1 tvg-id="PlayboyTVEurope" tvg-name="PlayboyTVEurope" tvg-logo="playboytv.png" group-title="18+",Playboy TV Europe
+
+#EXTINF:-1 tvg-id="PrivateTVEurope" tvg-name="PrivateTVEurope" tvg-logo="privatetv.png" group-title="18+",Private TV Europe
+
+#EXTINF:-1 tvg-id="RING" tvg-name="RING" tvg-logo="ring.png" group-title="Спортни",RING
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27849
+#EXTINF:-1 tvg-id="Rimeks" tvg-name="Rimeks" tvg-logo="rimeks.png" group-title="Новинарски",Римекс ТВ
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="Rodina" tvg-name="Rodina" tvg-logo="rodina.png" group-title="Музикални",Родина ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51460
+#EXTINF:-1 tvg-id="Redlight" tvg-name="Redlight" tvg-logo="redlight.png" group-title="18+",Redlight HD
+
+#EXTINF:-1 tvg-id="Skat" tvg-name="Skat" tvg-logo="skat.png" group-title="Новинарски",Скат ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51459
+#EXTINF:-1 tvg-id="SportPlusHD" tvg-name="SportPlusHD" tvg-logo="filmplushd.png" group-title="Спортни",Sport+ HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27847
+#EXTINF:-1 tvg-id="Shumen" tvg-name="Shumen" tvg-logo="tvshumen.png" group-title="Новинарски",ТВ Шумен
+
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" tvg-logo="sundance.png" group-title="Филмови",Sundance Pan Euro Romania
+
+#EXTINF:-1 tvg-id="TVSTZ" tvg-name="TVSTZ" tvg-logo="tvstz.png" group-title="Новинарски",Телевизия Стара Загора
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:-1 tvg-id="TheVoice" tvg-name="TheVoice" tvg-logo="thevoice.png" group-title="Музикални",The Voice
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27090
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="tv1.png" group-title="Новинарски",TV1
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27841
+#EXTINF:-1 tvg-id="Travel" tvg-name="Travel" tvg-logo="travel.png" group-title="Документални",Травъл ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51451
+#EXTINF:-1 tvg-id="thisisbg" tvg-name="thisisbg" tvg-logo="thisisbg.png" group-title="Документални",This is Bulgaria HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27842
+#EXTINF:-1 tvg-id="TVT" tvg-name="TVT" tvg-logo="tvt.png" group-title="Документални",ТВТ Туризъм
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51447
+#EXTINF:-1 tvg-id="TiankovFolk" tvg-name="TiankovFolk" tvg-logo="tiankovfolk.png" group-title="Музикални",Тянков Фолк ТВ
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27846
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TraceSportStars" tvg-logo="tracesportstars.png" group-title="Спортни",Trace Sport Stars
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27844
+#EXTINF:-1 tvg-id="TVPlus" tvg-name="TVPlus" tvg-logo="tvplus.png" group-title="Новинарски",TV+
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/31243
+#EXTINF:-1 tvg-id="TV999" tvg-name="TV999" tvg-logo="tv999.png" group-title="Политематичен",tv999 
+
+#EXTINF:-1 tvg-id="TV1000" tvg-name="TV1000" tvg-logo="tv1000.png" group-title="Филмови",Viasat TV1000
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27094
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="TravelChannel" tvg-logo="travelchannel.png" group-title="Документални",Travel Channel
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27092
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="tlc.png" group-title="Документални",TLC
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51454
+#EXTINF:-1 tvg-id="ViasatHD" tvg-name="ViasatHD" tvg-logo="viasathd.png" group-title="Документални",Viasat Nature & History HD
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51444
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="ViasatExplorer" tvg-logo="viasatexplorer.png" group-title="Документални",Viasat Explorer
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51446
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="ViasatHistory" tvg-logo="viasathistory.png" group-title="Документални",Viasat History
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27840
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="ViasatNature" tvg-logo="viasatnature.png" group-title="Документални",Viasat Nature
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51444
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="vh1.png" group-title="Музикални",VH1
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/1035
+#EXTINF:-1 tvg-id="VH1Classic" tvg-name="VH1Classic" tvg-logo="vh1classic.png" group-title="Музикални",VH1 Classic
+http://link.snapiptv.com:7899/cuscun-677608/aVWbgWF89e/51101
+#EXTINF:-1 tvg-id="VivacomArena" tvg-name="VivacomArena" tvg-logo="vivacomarena.png" group-title="Филмови",VIVACOM Arena
+
+#EXTINF:-1 tvg-id="Vratza" tvg-name="Vratza" tvg-logo="vratza.png" group-title="Новинарски",Враца ТВ
+https://tinyurl.com/y85h254n
+#EXTINF:-1 tvg-id="VTK" tvg-name="VTK" tvg-logo="vtk.png" group-title="Новинарски",Военен ТВ Канал
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27095
+#EXTINF:-1 tvg-id="VoyoCinema" tvg-name="VoyoCinema" tvg-logo="voyo.png" group-title="Филмови",Voyo Cinema
+
+#EXTINF:-1 tvg-id="TVVidin" tvg-name="TVVidin" tvg-logo="tvv.png" group-title="Новинарски",Телевизия Видин
+https://streamer103.neterra.tv/radiovidin/live/playlist.m3u8?hash
+#EXTINF:-1 tvg-id="WorldFashionChannel" tvg-name="WorldFashionChannel" tvg-logo="worldfashionchannel.png" group-title="Новинарски",World Fashion Channel
+
+#EXTINF:-1 tvg-id="wness" tvg-name="wness" tvg-logo="wness.png" group-title="Спортни",wness tv
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27838
