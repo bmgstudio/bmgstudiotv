@@ -3,7 +3,8 @@
 http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/27894
 #EXTINF:-1 tvg-id="78TV" tvg-name="78TV" tvg-logo="78tv.png" group-title="Новинарски",78TV
 http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51530
-#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="amc.png" group-title="Филмови",AMC http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51521
+#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="amc.png" group-title="Филмови",AMC 
+http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51521
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="axn.png" group-title="Филмови",AXN
 http://iptv-line.com:7899/cuscun-677608/aVWbgWF89e/51519
 #EXTINF:-1 tvg-id="AXNBlack" tvg-name="AXNBlack" tvg-logo="axnblack.png" group-title="Филмови",AXN Black
